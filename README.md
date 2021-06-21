@@ -139,13 +139,13 @@ To run the experiments, use the file **"DeepInf\\run_experiments.py"**
 ### Cite
 This work has been published in Neurocomputing. Please cite this work if you use any of the code or material.
 
-@article{HADDAD2021,
-title = {Exploring the representational power of graph autoencoder},
-journal = {Neurocomputing},
-year = {2021},
-issn = {0925-2312},
-doi = {https://doi.org/10.1016/j.neucom.2021.06.034},
-url = {https://www.sciencedirect.com/science/article/pii/S0925231221009383},
-author = {Maroun Haddad and Mohamed Bouguessa},
-keywords = {Graph Neural Networks, Graph Embedding, Node Representation Learning, Graph Topological Features, Explainable Artificial Intelligence},
-}
+@article{HADDAD2021,  
+title = {Exploring the representational power of graph autoencoder},  
+journal = {Neurocomputing},  
+year = {2021},  
+issn = {0925-2312},  
+doi = {https://doi.org/10.1016/j.neucom.2021.06.034},  
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221009383},  
+author = {Maroun Haddad and Mohamed Bouguessa},  
+keywords = {Graph Neural Networks, Graph Embedding, Node Representation Learning, Graph Topological Features, Explainable Artificial Intelligence},  
+}  
