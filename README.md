@@ -137,7 +137,7 @@ To run the experiments, use the file **"DeepInf\\run_experiments.py"**
 [4] Qiu, J., Tang, J., Ma, H., Dong, Y., Wang, K., Tang, J., 2018.  Deepinf:  Socialinfluence  prediction  with  deep  learning,  in:  Proceedings  of  the  24th  ACMSIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 2110–2119.
 
 ### Cite
-This work has been published in Neurocomputing. Please cite this work if you use any of the code or material.
+This work has been published in Neurocomputing. Please cite this article if you use any of the code or materials for your work.
 
 @article{HADDAD2021,  
 title = {Exploring the representational power of graph autoencoder},  
