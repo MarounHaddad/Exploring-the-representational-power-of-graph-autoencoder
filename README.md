@@ -135,3 +135,16 @@ To run the experiments, use the file **"DeepInf\\run_experiments.py"**
 [3] J.  Wu,  J.  He,  and  J.  Xu,  “Demo-net:  Degree-specific  graph  neuralnetworks for node and graph classification,” inProceedings of the 25thACM  SIGKDD  International  Conference  on  Knowledge  Discovery  &Data Mining, pp. 406–415, 2019.
 
 [4] Qiu, J., Tang, J., Ma, H., Dong, Y., Wang, K., Tang, J., 2018.  Deepinf:  Socialinfluence  prediction  with  deep  learning,  in:  Proceedings  of  the  24th  ACMSIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 2110–2119.
+
+### Cite
+This work has been published in Neurocomputing. Please cite this work if you use any of the code or material.
+@article{HADDAD2021,
+title = {Exploring the representational power of graph autoencoder},
+journal = {Neurocomputing},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.06.034},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221009383},
+author = {Maroun Haddad and Mohamed Bouguessa},
+keywords = {Graph Neural Networks, Graph Embedding, Node Representation Learning, Graph Topological Features, Explainable Artificial Intelligence},
+}
