@@ -138,6 +138,7 @@ To run the experiments, use the file **"DeepInf\\run_experiments.py"**
 
 ### Cite
 This work has been published in Neurocomputing. Please cite this work if you use any of the code or material.
+
 @article{HADDAD2021,
 title = {Exploring the representational power of graph autoencoder},
 journal = {Neurocomputing},
